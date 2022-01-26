@@ -1,3 +1,8 @@
+/**
+ * @file addmaildialog.cpp
+ * @brief Plik źródłowy klasy AddMailDialog
+ * @see AddMailDialog
+ */
 #include "addmaildialog.h"
 #include "ui_addmaildialog.h"
 

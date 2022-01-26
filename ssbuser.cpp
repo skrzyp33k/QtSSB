@@ -1,3 +1,8 @@
+/**
+ * @file ssbuser.cpp
+ * @brief Plik źródłowy klasy SSBUser
+ * @see SSBUser
+ */
 #include "ssbuser.h"
 
 SSBUser::SSBUser(QString username, QString hash)

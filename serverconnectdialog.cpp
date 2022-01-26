@@ -1,3 +1,8 @@
+/**
+ * @file serverconnectdialog.cpp
+ * @brief Plik źródłowy klasy ServerConnectDialog
+ * @see ServerContactDialog
+ */
 #include "serverconnectdialog.h"
 #include "ui_serverconnectdialog.h"
 

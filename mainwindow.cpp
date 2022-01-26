@@ -1,3 +1,7 @@
+/**
+ * @file mainwindow.cpp
+ * @brief Plik źródłowy klasy MainWindow
+ */
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 

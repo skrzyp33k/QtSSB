@@ -1,3 +1,8 @@
+/**
+ * @file ssbphone.cpp
+ * @brief Plik źródłowy klasy SSBPhone
+ * @see SSBPhone
+ */
 #include "ssbphone.h"
 
 SSBPhone::SSBPhone(int id, int id_contact, QString phone)

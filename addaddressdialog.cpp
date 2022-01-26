@@ -1,3 +1,8 @@
+/**
+ * @file addaddressdialog.cpp
+ * @brief Plik źródłowy klasy AddAddressDialog
+ * @see AddAddressDialog
+ */
 #include "addaddressdialog.h"
 #include "ui_addaddressdialog.h"
 

@@ -1,3 +1,8 @@
+/**
+ * @file useradddialog.cpp
+ * @brief Plik źródłowy klasy UserAddDialog
+ * @see UserAddDialog
+ */
 #include "useradddialog.h"
 #include "ui_useradddialog.h"
 

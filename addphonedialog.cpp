@@ -1,3 +1,8 @@
+/**
+ * @file addphonedialog.cpp
+ * @brief Plik źródłowy klasy AddPhoneDialog
+ * @see AddPhoneDialog
+ */
 #include "addphonedialog.h"
 #include "ui_addphonedialog.h"
 

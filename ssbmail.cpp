@@ -1,3 +1,8 @@
+/**
+ * @file ssbmail.cpp
+ * @brief Plik źródłowy klasy SSBMail
+ * @see SSBMail
+ */
 #include "ssbmail.h"
 
 SSBMail::SSBMail(int id, int id_contact, QString mail)

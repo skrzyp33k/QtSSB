@@ -1,3 +1,8 @@
+/**
+ * @file ssbaddress.cpp
+ * @brief Plik źródłowy klasy SSBAddress
+ * @see SSBAddress
+ */
 #include "ssbaddress.h"
 
 SSBAddress::SSBAddress(int id, int id_contact, QString fline, QString sline, QString postal, QString city)

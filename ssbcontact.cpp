@@ -1,3 +1,8 @@
+/**
+ * @file ssbcontact.cpp
+ * @brief Plik źródłowy klasy SSBContact
+ * @see SSBContact
+ */
 #include "ssbcontact.h"
 
 SSBContact::SSBContact(int id_contact, QString name, QString surname, QString description, QString owner)

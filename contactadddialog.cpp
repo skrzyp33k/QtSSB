@@ -1,3 +1,8 @@
+/**
+ * @file contactadddialog.cpp
+ * @brief Plik źródłowy klasy ContactAddDialog
+ * @see ContactAddDialog
+ */
 #include "contactadddialog.h"
 #include "ui_contactadddialog.h"
 

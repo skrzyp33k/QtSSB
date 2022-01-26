@@ -1,3 +1,8 @@
+/**
+ * @file userlogindialog.cpp
+ * @brief Plik źródłowy klasy UserLoginDialog
+ * @see UserLoginDialog
+ */
 #include "userlogindialog.h"
 #include "ui_userlogindialog.h"
 

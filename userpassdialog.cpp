@@ -1,3 +1,8 @@
+/**
+ * @file userpassdialog.cpp
+ * @brief Plik źródłowy klasy UserPassDialog
+ * @see UserPassDialog
+ */
 #include "userpassdialog.h"
 #include "ui_userpassdialog.h"
 
