@@ -312,7 +312,6 @@ void MainWindow::on_pushButton_Login_clicked()
     {
         if(correctHash == SSBUser::ToMD5(userLoginDialog->attrib[1]))
         {
-            this->_loadData();
             this->loggedUser = userLoginDialog->attrib[0];
             this->_logged = true;
             this->_loggedUserIndex = index;
